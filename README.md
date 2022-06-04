@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jaseemrahman
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning fullstack developer
+- 🌱 I’m currently learning full stack developer
 - 💞️ I’m looking to collaborate on developer jobs
 - 📫 reach me on jaseemrahmanjr@gmail.com
 
