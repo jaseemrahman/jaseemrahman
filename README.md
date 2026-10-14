@@ -1,6 +1,6 @@
 ### Hi there, I'm Jaseem Rahman! 👋
 
-I'm a passionate programmer with over 3 years of experience as a Python/Django Developer.. My expertise lies in crafting efficient and scalable solutions using Python and SQL. I'm enthusiastic about collaborating on exciting developer projects and contributing to innovative solutions.
+I'm a passionate programmer with over 4+ years of experience as a Python/Django Developer.. My expertise lies in crafting efficient and scalable solutions using Python and SQL. I'm enthusiastic about collaborating on exciting developer projects and contributing to innovative solutions.
 
 💼 **Experience:** 
 - Python/Django Developer (4+ years)
