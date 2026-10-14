@@ -1,27 +1,22 @@
-### Hi there, I'm Jaseem Rahman! 👋
+# Hi there, I'm Jaseem Rahman 👋
 
-I'm a passionate programmer with over 4+ years of experience as a Python/Django Developer.. My expertise lies in crafting efficient and scalable solutions using Python and SQL. I'm enthusiastic about collaborating on exciting developer projects and contributing to innovative solutions.
+###  Python Backend Developer | Django | FastAPI
 
-💼 **Experience:** 
-- Python/Django Developer (4+ years)
+I'm a Python Backend Developer with **4+ years of experience** building scalable web applications, REST APIs, and database-driven solutions. Passionate about problem-solving, backend architecture, and developing reliable software.
 
-📫 **Reach Me:** 
-- Email: jaseemrahmanjr@gmail.com 
+### 🛠️ Tech Stack
 
----
+- **Languages:** Python, JavaScript, SQL
+- **Frameworks:** Django, Django REST Framework, FastAPI, Flask
+- **Databases:** PostgreSQL, MySQL, SQLite, Redis
+- **Technologies:** REST APIs, JWT, Celery, WebSockets
+- **Tools & Deployment:** Git, Docker, Linux, Nginx, Gunicorn
+- **Integrations:** Payment Gateways, Third-Party APIs, Odoo ERP
 
-### About Me
+### 🤝 Let's Connect
 
-I am Jaseem Rahman, a dedicated programmer with a keen interest in crafting efficient and scalable solutions. I thrive in challenging environments where I can apply my problem-solving skills and creativity to deliver high-quality software products. My journey as a developer has equipped me with the necessary skills to tackle complex projects and collaborate effectively within teams.
+📧 Email: jaseemrahmanjr@gmail.com
 
-### Skills
+💻 Open to exciting projects and Python backend development opportunities.
 
-- **Languages:** Python, JavaScript
-- **Frameworks:** Django, Flask
-- **Databases:** PostgreSQL, SQLite
-- **Frontend:** HTML, CSS, React
-- **Tools & Technologies:** Git, Docker, RESTful APIs
-
-Feel free to reach out to discuss potential collaborations or job opportunities. I'm looking forward to connecting with fellow developers and exploring new avenues in the world of programming!
-
-
+⭐ *Building scalable solutions, one line of code at a time.*
